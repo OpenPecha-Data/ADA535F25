@@ -1,0 +1,19 @@
+id: ADA535F25
+title: Concise Middle Way Aspiration
+type: translation
+pechas:
+- I01AA99A7
+- I40504F59
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:54:13.542911
+  last_modified_at: 2023-01-04 12:54:13.542932
+  collections:
+  - Khenpo Shenpen Nangwa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I01AA99A7/3498: '4846'
+  I40504F59/C29E: '4846'
